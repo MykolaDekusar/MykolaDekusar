@@ -1,45 +1,49 @@
-# 👋 Hi, I'm Mykola Dekusar – aka Draknes
+# 👋 Hi, I'm Mykola Dekusar (Draknes)
 
-🎯 Full Stack Web Developer · Aspiring .NET Developer · Pizza Engineer by night, Coder by heart
+Full Stack Developer focused on JavaScript and .NET  
+Based in Northern Italy – open to remote opportunities  
 
-----------------------------------------------------------------
+---
 
 ## 💻 About Me
 
-- 🧠 I'm currently deepening my C# and .NET skills  
-- 👨‍🍳 After 8+ years as a pizzaiolo, I decided to pivot into tech and completed a full-time Full Stack Web Developer course with Boolean  
-- 🔧 I love building clean and functional web apps, especially using Laravel and Vue.js  
-- 🌍 Based in Northern Italy – open to remote or hybrid opportunities  
+After 8+ years working in a fast-paced environment as a pizzaiolo, I transitioned into software development with a structured and disciplined approach.
 
-----------------------------------------------------------------
+I completed an intensive Full Stack Web Developer course and I am now focused on strengthening my JavaScript and .NET skills while building real-world projects.
+
+I bring consistency, resilience, and strong problem-solving skills from years of hands-on work under pressure.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: HTML5, CSS3, JavaScript, PHP, C#, SQL  
-- **Frameworks**: Vue.js, Laravel, .NET (in progress)  
-- **Tools**: Git, GitHub, MySQL, Visual Studio Code, Postman  
-- **Soft Skills**: Problem solving, teamwork, adaptability, fast learning
+**Languages:**  
+HTML, CSS, JavaScript, PHP, C#, SQL  
 
-----------------------------------------------------------------
+**Frameworks & Libraries:**  
+Laravel, Vue.js, .NET (in progress)
 
-## 📈 Currently Working On
+**Tools:**  
+Git, GitHub, MySQL, VS Code, Postman
 
-- 🔁 Practicing C# console apps to strengthen fundamentals  
-- 🚀 Building projects to add to my GitHub portfolio  
-- 🤝 Searching for my first opportunity as a Junior Developer
+---
 
-----------------------------------------------------------------
+## 📈 Current Focus
 
-## 🌱 I’m Learning
+- Strengthening C# and .NET fundamentals  
+- Building full-stack projects  
+- Writing clean and maintainable code  
+- Improving system design understanding  
 
-- ✅ C# and .NET ecosystem  
-- ✅ Clean code principles and design patterns  
-- ✅ How to deploy and maintain real-world apps
+---
 
-----------------------------------------------------------------
+## 🎯 2026 Goal
 
-## 📬 Let's Connect!
+Secure a Junior Developer position and grow within a professional development team.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-dekusar-7aa3692b8/)  
-📧 Email: ndekusar97@gmail.com
-🎵 SoundCloud (Music as Draknes): https://soundcloud.com/draknes-279724944
+---
+
+## 📬 Contact
+
+[LinkedIn](https://www.linkedin.com/in/mykola-dekusar-7aa3692b8/)  
+📧 Email: ndekusar97@gmail.com  
