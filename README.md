@@ -45,5 +45,5 @@ Secure a Junior Developer position and grow within a professional development te
 
 ## 📬 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mykola-dekusar-7aa3692b8/)  
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mykola-dekusar-7aa3692b8/)  
 📧 Email: ndekusar97@gmail.com  
