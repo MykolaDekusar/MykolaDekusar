@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mykola Dekusar (Draknes)
 
-Full Stack Developer focused on JavaScript and .NET  
+Full Stack Developer focused on JavaScript  
 Based in Northern Italy – open to remote opportunities  
 
 ---
@@ -9,19 +9,19 @@ Based in Northern Italy – open to remote opportunities
 
 After 8+ years working in a fast-paced environment as a pizzaiolo, I transitioned into software development with a structured and disciplined approach.
 
-I completed an intensive Full Stack Web Developer course and I am now focused on strengthening my JavaScript and .NET skills while building real-world projects.
+I completed an intensive Full Stack Web Developer course and I am now focused on strengthening my JavaScript skills.
 
-I bring consistency, resilience, and strong problem-solving skills from years of hands-on work under pressure.
+I bring consistency, resilience, and strong problem solving skills from years of hands on work under pressure.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-HTML, CSS, JavaScript, PHP, C#, SQL  
+HTML, CSS, JavaScript, PHP, SQL  
 
 **Frameworks & Libraries:**  
-Laravel, Vue.js, .NET (in progress)
+Laravel, Vue.js
 
 **Tools:**  
 Git, GitHub, MySQL, VS Code, Postman
@@ -30,7 +30,7 @@ Git, GitHub, MySQL, VS Code, Postman
 
 ## 📈 Current Focus
 
-- Strengthening C# and .NET fundamentals  
+- Strengthening JavaScript fundamentals  
 - Building full-stack projects  
 - Writing clean and maintainable code  
 - Improving system design understanding  
